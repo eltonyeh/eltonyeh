@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eltonyeh
 - 👀 I’m interested in math and classical music
-- 🌱 I’m currently learning Scala
+- 🌱 I’m currently learning distributed graph algorithms
 - 💞️ I’m looking to collaborate on cool things
 - 📫 How to reach me eltonyeh1030@gmail.com
 
